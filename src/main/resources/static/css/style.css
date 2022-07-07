@@ -1,0 +1,15 @@
+.container {
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 5px;
+    border: solid #f7f7f9;
+}
+
+.login-container {
+    width: 500px;
+}
+
+.dashboard-container {
+    width: 900px;
+}
